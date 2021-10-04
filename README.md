@@ -1,24 +1,12 @@
-# frontend
+# Technical Test
 
-## Project setup
-```
-npm install
-```
+## Backend - https://github.com/deje0014/tech-test-backend
+- Developed using Node.js and Express.
+- Added aditional packages to help the development, such as Debug, CORS, Morgan, Nodemon and Random.
+- API uses a fixed database in .js format for testing/demonstration purposes.
+- "npm start" runs the server in development mode.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Frontend - https://github.com/deje0014/tech-test-frontend
+- Developed using Vue.js as requested
+- Fetch data from API, sort it and highlight highest score.
